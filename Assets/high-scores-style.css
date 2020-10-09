@@ -1,0 +1,29 @@
+/* Generic styling */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+
+/* This is the styling for the buttons*/
+.button {
+    background :#4B2571;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    }
+
+/* This is the styling for the container div */
+.container {
+    margin: 100px auto 0 auto;
+    max-width: 600px;
+    }
+
+/* This is the styling for the list items in the ordered list */
+.list-items {
+    list-style-position: outside;
+    background-color: #CABCD8;
+    padding: 8px;
+}
