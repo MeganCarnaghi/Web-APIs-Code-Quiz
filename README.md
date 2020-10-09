@@ -31,7 +31,7 @@ THEN I can save my initials and score
 - I created 3 JS files- one for the quiz questions, one for the primary quiz functions and one for the high scores page.
 - I created two CSS files - one for the styling of the start screen, questions, feedback and and screen and a second one for the styling of the high scores page.
 
-* Here is my URL of the functional, deployed application: 
+* Here is my URL of the functional, deployed application: https://megancarnaghi.github.io/Web-APIs-Code-Quiz/
 
 * Here is my URL of the GitHub repository: https://github.com/MeganCarnaghi/Web-APIs-Code-Quiz.git
 
