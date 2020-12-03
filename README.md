@@ -1,9 +1,16 @@
-# 04 Web APIs: Code Quiz
+# Web APIs - Code Quiz
 
-As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+## Table of Contents
+* [Description](#description)
+* [User Story](#user-story)
+* [Acceptance Criteria](#acceptance-criteria)
+* [Technologies Used](#technologies-used)
+* [Links and Screenshot](#links-and-screenshot)
+
+## Description
+This is a timed, coding assessment that includes a combination of multiple-choice questions and interactive challenges. This application runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code.
 
 ## User Story
-
 ```
 AS A coding bootcamp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
@@ -11,7 +18,6 @@ SO THAT I can gauge my progress compared to my peers
 ```
 
 ## Acceptance Criteria
-
 ```
 GIVEN I am taking a code quiz
 WHEN I click the start button
@@ -26,21 +32,19 @@ WHEN the game is over
 THEN I can save my initials and score
 ```
 
-### Description of My Code
-- I created two HTML files- one for the start screen, questions and end screen and a second one for the high scores page.
-- I created 3 JS files- one for the quiz questions, one for the primary quiz functions and one for the high scores page.
-- I created two CSS files - one for the styling of the start screen, questions, feedback and and screen and a second one for the styling of the high scores page.
+## Technologies Used
+* HTML
+* CSS
+* JavaScript
+
+## Links and Screenshot
 
 * Here is my URL of the functional, deployed application: https://megancarnaghi.github.io/Web-APIs-Code-Quiz/
 
 * Here is my URL of the GitHub repository: https://github.com/MeganCarnaghi/Web-APIs-Code-Quiz.git
 
-Here are screenshots from my code:
+![Screenshot](Assets/screenshot.jpg)
 
-- Start Screen: (Screenshots/Start Page.jpg)
+© Megan Carnaghi, Michigan State University Full-Stack Web Development Bootcamp
 
-- Question Page with Feedback: (Screenshots/Question Page.jpg) 
 
-- End Screen: (Screenshots/End Screen.jpg)
-
-- High Scores Page: (Screenshots/High Scores Page.jpg)
