@@ -45,6 +45,3 @@ THEN I can save my initials and score
 
 ![Screenshot](Assets/screenshot.jpg)
 
-© Megan Carnaghi, Michigan State University Full-Stack Web Development Bootcamp
-
-
