@@ -6,6 +6,7 @@
 * [Acceptance Criteria](#acceptance-criteria)
 * [Technologies Used](#technologies-used)
 * [Links and Screenshot](#links-and-screenshot)
+* [License](#license)
 
 ## Description
 This is a timed, coding assessment that includes a combination of multiple-choice questions and interactive challenges. This application runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code.
@@ -39,9 +40,13 @@ THEN I can save my initials and score
 
 ## Links and Screenshot
 
-* Here is my URL of the functional, deployed application: https://megancarnaghi.github.io/Web-APIs-Code-Quiz/
+* URL of the functional, deployed application: https://megancarnaghi.github.io/Web-APIs-Code-Quiz/
 
-* Here is my URL of the GitHub repository: https://github.com/MeganCarnaghi/Web-APIs-Code-Quiz.git
+* URL of the GitHub repository: https://github.com/MeganCarnaghi/Web-APIs-Code-Quiz.git
 
 ![Screenshot](Assets/screenshot.jpg)
+
+## License
+
+![license](https://img.shields.io/badge/License-MIT-success)
 
